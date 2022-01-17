@@ -6,4 +6,4 @@
 
 ## Tech used for the project:
 
-### – [x] JAVASCRIPT ES6– [x] HTML– [x] CSS
+–[x] JAVASCRIPT ES6–[x] HTML–[x] CSS
