@@ -4,6 +4,10 @@
 
 ![img](countphoto.png)
 
-## Tech used for the project:
+## Tech used for the project
 
-–[x] JAVASCRIPT ES6–[x] HTML–[x] CSS
+### JAVASCRIPT ES6
+
+### HTML
+
+### CSS
