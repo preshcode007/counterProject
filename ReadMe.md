@@ -1,7 +1,9 @@
-#Tech used for the CounterProject
+# The Counter Project
 
-HTML
-JAVASCRIPT ES6
-CSS
+## I replicated this project unsupervised to display my understanding of Javascript and how it beautifully makes HTML dynamic with the uncanny help of CSS.
 
-![](C:\Users\user\Desktop\PRESH767\counterproject)
+![img](countphoto.png)
+
+## Tech used for the project:
+
+### – [x] JAVASCRIPT ES6– [x] HTML– [x] CSS
